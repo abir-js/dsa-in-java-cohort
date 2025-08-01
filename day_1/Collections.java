@@ -16,7 +16,7 @@ public class Collections {
         System.out.println(a.size());
         a.add(30);
         System.out.println(a.size());
-        // b.addFirst(50); // exclusive method of LinkedList
+        b.addFirst(50); // exclusive method of LinkedList
         // b.removeFirst(); // exclusive method of LinkedList
 
         // a.remove(2);
